@@ -92,5 +92,4 @@ public enum ItemType
     Ammo,
     Diamond,
     DarkMatter
-
 }
